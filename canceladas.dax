@@ -1,0 +1,5 @@
+NF Canceladas = 
+CALCULATE(
+    COUNT(processos[numero_nf]),
+    processos[status_nf] = "Cancelada"
+)
