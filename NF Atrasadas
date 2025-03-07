@@ -1,0 +1,5 @@
+NF Atrasadas = 
+CALCULATE(
+    COUNT(processos[numero_nf]),
+    NOT(ISBLANK(processos[atrasado]))
+)
