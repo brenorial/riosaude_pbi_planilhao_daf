@@ -1,0 +1,5 @@
+NF Autorizadas = 
+CALCULATE(
+    COUNT(processos[numero_nf]),
+    processos[status_nf] = "Autorizada"
+)
