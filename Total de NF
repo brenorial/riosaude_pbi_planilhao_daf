@@ -1,0 +1,2 @@
+Total de NF = 
+CALCULATE(COUNT(processos[numero_nf]))
