@@ -1,0 +1,8 @@
+site_name: Dashboard DAF - Documentação
+
+nav:
+  - Home: index.md
+  - Métricas: metricas.md
+
+theme:
+  name: material
