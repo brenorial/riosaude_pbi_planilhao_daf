@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# 📈 Dashboard de Controle da DAF (PPD)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Este documento apresenta a documentação do dashboard da Diretoria Administrativa-Financeira (DAF), baseado nas inserções realizadas no Processo de Pagamento Digital (PPD).
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Objetivo
 
-## Project layout
+Centralizar as informações do PPD para apoiar a análise e tomada de decisão da equipe da DAF.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## Fontes de Dados
+
+- Planilha de controle da DAF com dados das inserções no PPD.
+- Atualizações periódicas realizadas pelas áreas envolvidas.
+
+---
