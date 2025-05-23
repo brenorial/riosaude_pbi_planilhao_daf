@@ -18,7 +18,7 @@ O dashboard tem como propósito **centralizar as informações** inseridas pelas
 
 ---
 
-## 📌 Fontes de Dados
+## 📌 Fonte de Dados
 
 - Planilha de controle da DAF, consolidando as **inserções no PPD**.
 - Atualização periódica com base nos dados alimentados pelas áreas envolvidas.
