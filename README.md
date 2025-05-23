@@ -2,8 +2,13 @@
 
 Este repositório contém as métricas criadas para o dashboard da DAF (Diretoria Administrativa-Financeira), com base no **planilhão de controle** gerado a partir das **inserções realizadas no PPD** (Processo de Pagamento Digital).
 
-🔗 **Link para o Dashboard**:
+---
+
+🔗 **Dashboard**:
 [Power BI - Dashboard DAF](https://app.powerbi.com/view?r=eyJrIjoiZmY1ZTE3ZTAtN2U2Mi00M2I0LThmZjktZmI4ZWZiZmMyOWMyIiwidCI6ImZkZDBiYTAxLTM0MmItNDQwNy05MTlmLWMzYjU0NGM0N2ViMSJ9)
+
+📚 **Documentação**:
+[Documentação - MkDocs](https://brenorial.github.io/riosaude_pbi_planilhao_daf/)
 
 ---
 
